@@ -5,6 +5,10 @@ git config user.name "harsh852851singh"
 git config user.email "harsh852851singh@gmail.com"
 
 
+
+
+
+
 git add .
 git status
 
@@ -12,3 +16,9 @@ git commit - m "frist file add"
 git branch -M main 
 
 git push - u origin main 
+
+git log
+
+git log --oneline
+
+git show commit_id
