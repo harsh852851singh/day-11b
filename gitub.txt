@@ -5,7 +5,7 @@ git config user.name "harsh852851singh"
 git config user.email "harsh852851singh@gmail.com"
 
 
-git add - 
+git add .
 git status
 
 git commit - m "frist file add"
